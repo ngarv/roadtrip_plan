@@ -1,0 +1,105 @@
+{
+  "derniere_maj": "2026-04-03",
+  "total_budget_hebergement": "2814.48",
+  "devises": "EUR",
+  "reservations": [
+    {
+      "nom": "Feldstraße 99, Brême",
+      "check_in": "2026-07-30",
+      "check_out": "2026-07-31",
+      "prix": "168,00 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM2CT2D4AF"
+    },
+    {
+      "nom": "Bonderup, Danemark",
+      "check_in": "2026-07-31",
+      "check_out": "2026-08-01",
+      "prix": "139,51 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMQJSHRA2F"
+    },
+    {
+      "nom": "Slottsskogsleden 30, Göteborg",
+      "check_in": "2026-08-01",
+      "check_out": "2026-08-02",
+      "prix": "248,28 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMH4J3W3FS"
+    },
+    {
+      "nom": "Norralmsjön 107, Suède",
+      "check_in": "2026-08-03",
+      "check_out": "2026-08-04",
+      "prix": "64,78 €",
+      "url": "https://www.airbnb.fr/rooms/54362159?check_in=2026-08-03&check_out=2026-08-05"
+    },
+    {
+      "nom": "Gustavsberg 36, Suède",
+      "check_in": "2026-08-04",
+      "check_out": "2026-08-05",
+      "prix": "129,76 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMRYDSJYXE"
+    },
+    {
+      "nom": "Misvær, Nordland",
+      "check_in": "2026-08-05",
+      "check_out": "2026-08-06",
+      "prix": "147,06 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM8FKFPYNW"
+    },
+    {
+      "nom": "Vestvågøy – Lofoten",
+      "check_in": "2026-08-06",
+      "check_out": "2026-08-10",
+      "prix": "996,36 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMBXFKPRW8"
+    },
+    {
+      "nom": "Namsvassveien 1312, Trøndelag",
+      "check_in": "2026-08-10",
+      "check_out": "2026-08-11",
+      "prix": "84,33 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMMWQXPS3P"
+    },
+    {
+      "nom": "Langvassveien 238, Trøndelag",
+      "check_in": "2026-08-11",
+      "check_out": "2026-08-12",
+      "prix": "91,65 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMTBERYPJ3"
+    },
+    {
+      "nom": "Reitane 42, Vestland",
+      "check_in": "2026-08-12",
+      "check_out": "2026-08-13",
+      "prix": "86,38 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMJHT52ZNB"
+    },
+    {
+      "nom": "Gaularfjellsvegen 386, Vestland",
+      "check_in": "2026-08-13",
+      "check_out": "2026-08-14",
+      "prix": "147,48 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM8SE25XQE"
+    },
+    {
+      "nom": "Totakvegen 328, Telemark",
+      "check_in": "2026-08-17",
+      "check_out": "2026-08-18",
+      "prix": "105,39 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMKTAATYCH"
+    },
+    {
+      "nom": "Oslo (Asker)",
+      "check_in": "2026-08-18",
+      "check_out": "2026-08-19",
+      "prix": "318,12 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM3NNFNBMY"
+    },
+    {
+      "nom": "Krusåvej 48, Rømø",
+      "check_in": "2026-08-20",
+      "check_out": "2026-08-21",
+      "prix": "87,38 €",
+      "url": "https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMR5CYJFAJ"
+    }
+  ]
+}

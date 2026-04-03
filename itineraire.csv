@@ -1,0 +1,24 @@
+Jour,Date,Lieu départ,Lieu arrivée,Type nuit,Prix,Lien réservation Airbnb
+1,2026-07-30,"Lille (domicile)","Feldstraße 99, Brême",airbnb,168,00 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM2CT2D4AF
+2,2026-07-31,"Feldstraße 99, Brême","Bonderup, Danemark",airbnb,139,51 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMQJSHRA2F
+3,2026-08-01,"Bonderup, Danemark","Slottsskogsleden 30, Göteborg",airbnb,248,28 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMH4J3W3FS
+4,2026-08-02,"Slottsskogsleden 30","Slottsskogsleden 30",repos,0 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMH4J3W3FS
+5,2026-08-03,"Slottsskogsleden 30","Norralmsjön 107, Suède",airbnb,64,78 €,https://www.airbnb.fr/rooms/54362159?check_in=2026-08-03&check_out=2026-08-05
+6,2026-08-04,"Norralmsjön 107, Suède","Gustavsberg 36, Suède",airbnb,129,76 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMRYDSJYXE
+7,2026-08-05,"Gustavsberg 36, Suède","Misvær, Nordland",airbnb,147,06 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM8FKFPYNW
+8,2026-08-06,"Misvær, Nordland","Vestvågøy – Lofoten",airbnb,996,36 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMBXFKPRW8
+9,2026-08-07,"Vestvågøy – Lofoten","Vestvågøy – Lofoten",repos,inclus,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMBXFKPRW8
+10,2026-08-08,"Vestvågøy – Lofoten","Vestvågøy – Lofoten",repos,inclus,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMBXFKPRW8
+11,2026-08-09,"Vestvågøy – Lofoten","Vestvågøy – Lofoten",repos,inclus,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMBXFKPRW8
+12,2026-08-10,"Vestvågøy – Lofoten (Reine)","Namsvassveien 1312, Trøndelag",airbnb,84,33 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMMWQXPS3P
+13,2026-08-11,"Namsvassveien 1312","Langvassveien 238, Trøndelag",airbnb,91,65 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMTBERYPJ3
+14,2026-08-12,"Langvassveien 238","Reitane 42, Vestland",airbnb,86,38 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMJHT52ZNB
+15,2026-08-13,"Reitane 42, Vestland","Gaularfjellsvegen 386, Vestland",airbnb,147,48 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM8SE25XQE
+16,2026-08-14,"Gaularfjellsvegen 386","Vanvik, Hardanger",heberge,0 €,
+17,2026-08-15,"Vanvik, Hardanger","Vanvik, Hardanger",repos,0 €,
+18,2026-08-16,"Vanvik, Hardanger","Vanvik, Hardanger",repos,0 €,
+19,2026-08-17,"Vanvik, Hardanger","Totakvegen 328, Telemark",airbnb,105,39 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMKTAATYCH
+20,2026-08-18,"Totakvegen 328, Telemark","Oslo (Asker)",airbnb,318,12 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM3NNFNBMY
+21,2026-08-19,"Oslo (Asker)","Oslo",repos,0 €,
+22,2026-08-20,"Oslo","Krusåvej 48, Rømø",airbnb,87,38 €,https://www.airbnb.fr/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMR5CYJFAJ
+23,2026-08-21,"Krusåvej 48, Rømø","Lille (domicile)",retour,,
